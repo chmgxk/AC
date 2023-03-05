@@ -1,0 +1,23 @@
+{
+  "current_profile": "default",
+  "profiles": {
+    "default": {
+      "General": {
+        "MenuKey": 119,
+        "SelectedModule": 1
+      },
+      "Settings": {
+        "Language": {
+          "Language": "SimplifiedChinese"
+        }
+      }
+    }
+  },
+  "shared": {
+    "General": {
+      "Theme": {
+        "DefaultTheme": "AkebiGC_Sakura_177770040"
+      }
+    }
+  }
+}
